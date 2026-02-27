@@ -32,4 +32,3 @@ In this first assignment, we will implement DDPM and DDIM step by step on a 2D t
 
 Clone this repository and upload the notebook file `DDPM_DDIM.ipynb` to [Google Colab](https://colab.research.google.com).  
 **All instructions—including task descriptions and submission guidelines—are provided in the notebook file. Please follow them carefully to complete the tasks.**
-# Diffusion_study
